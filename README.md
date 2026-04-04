@@ -8,4 +8,5 @@ The project was developed in Google Colab using Python, Polars, Plotnine, GeoPan
 
 Author: Laniqua Hendricks
 MSc Business Management Student, DCU
+
 Website: https://laniquahendricks2.github.io/UNICEF_Assignment.html
