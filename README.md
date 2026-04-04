@@ -7,6 +7,7 @@ The website explores global inequalities in access to oral rehydration salts (OR
 The project was developed in Google Colab using Python, Polars, Plotnine, GeoPandas, and Quarto, then published through GitHub Pages.
 
 Author: Laniqua Hendricks
+
 MSc Business Management Student, DCU
 
 Website: https://laniquahendricks2.github.io/UNICEF_Assignment.html
